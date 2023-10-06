@@ -4,4 +4,4 @@ Hello! I'm 4z0t (at least, it is my nickname). I'm studying software engineering
 
 [FAF](https://github.com/FAForever) maintainer. Created various [mods](https://github.com/4z0t/FAF-UI-Mods) for FAF community and [Oxygen](https://github.com/4z0t/Oxygen) - framework for creating mission scenarions.
 
-Programming languages: C++, C#, Lua, Python.
+Programming languages: C++, Python, Lua, C#.
