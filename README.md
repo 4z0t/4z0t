@@ -2,6 +2,10 @@
 
 Hello! I'm 4z0t (at least, it is my nickname). I'm studying software engineering. Most interest are game and web development. 
 
-[FAF](https://github.com/FAForever) maintainer. Created various [mods](https://github.com/4z0t/FAF-UI-Mods) for FAF community and [Oxygen](https://github.com/4z0t/Oxygen) - framework for creating mission scenarions.
+[FAForever](https://github.com/FAForever) maintainer:
+* Created various [mods](https://github.com/4z0t/FAF-UI-Mods) for FAF community
+* Created [Oxygen](https://github.com/4z0t/Oxygen) - framework for making mission scenarios
+* Done various [patches](https://github.com/FAForever/FA-Binary-Patches) to base game executable
+* As well as new [patcher](https://github.com/4z0t/SCFA-python-patcher) for it
 
 Programming languages: C++, Python, Lua, C#.
