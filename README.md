@@ -9,3 +9,5 @@ Hello! I'm 4z0t (pronounced as Azoth). I am mostly UI Developer (mods, applicati
 * As well as new [patcher](https://github.com/4z0t/SCFA-python-patcher) for it (Python 3.12, GCC, Clang)
 
 Programming languages: C/C++, Python, Lua, C#.
+
+#giveFAFsourcecode
